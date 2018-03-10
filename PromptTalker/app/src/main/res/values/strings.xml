@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PromptTalker</string>
+    <string name="paste_speech_here_label">Paste speech here:</string>
 </resources>
